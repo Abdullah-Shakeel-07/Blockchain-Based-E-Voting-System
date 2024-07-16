@@ -27,7 +27,7 @@ Elections in many regions have been plagued by allegations of tampering and frau
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Blockchain-Based-E-Voting-System.git
+   git clone https://github.com/Abdullah-Shakeel-07/Blockchain-Based-E-Voting-System.git
    cd Blockchain-Based-E-Voting-System
    ```
 
